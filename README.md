@@ -20,7 +20,3 @@ This project is made to let students or the educators understand how these algor
 - Custom Array input
 - UI Rework using ReactJS
 - Various bug fixes and optimizations.
-   
-***Glad to see you here! Show some love by [starring](https://github.com/sherwindavis/sorting-visualizer/) this repo.***   
-   
-[![linkedin](	linkedin.com/in/aastha-sachdeva-1a60121a1 )[![xda](	https://img.shields.io/badge/XDA-Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/m/sherwindavis.7395008/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lifeofsherwin/)
